@@ -6,7 +6,7 @@ algorithm, with eight iterations of fractional brownian motion.
 The resulting code is highly performant when compiled with preference to execution speed.
 
 
-Currently, 1D and 2D simplex noise is supported. 3D and 4D will be supported soon.
+Currently, 1D and 2D simplex noise is supported. 3D and 4D will be supported soon, once patent restrictions are avoided.
 
 In order to correctly generate noise, it is necessary to call the Noise::Seed
 method after manually setting the Frequency, Amplitude, Lacunarity, and Persistence
